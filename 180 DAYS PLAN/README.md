@@ -1,4 +1,4 @@
-<H1> **Day-by-Day (180-Day) Dairy Farming Curriculum** → exactly **1 hour/day** for 6 months.</H1> 
+<H1> Day-by-Day (180-Day) Dairy Farming Curriculum → exactly 1 hour/day for 6 months.</H1> 
 
 ---
 
