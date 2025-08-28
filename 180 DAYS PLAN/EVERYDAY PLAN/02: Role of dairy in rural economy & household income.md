@@ -3,9 +3,6 @@
 
 ---
 
-# 🥛 Day 2: Role of Dairy in Rural Economy & Household Income
-
----
 
 ## 1. Importance of Dairy in India’s Rural Economy
 
