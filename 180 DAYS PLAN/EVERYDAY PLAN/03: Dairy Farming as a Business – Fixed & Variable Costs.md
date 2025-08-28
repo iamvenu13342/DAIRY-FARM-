@@ -1,7 +1,4 @@
 <h1>Day 3 Notes: Dairy Farming as a Business – Fixed & Variable Costs.</h1>
----
-
-# 🐄 Day 3: Dairy Farming as a Business – Fixed & Variable Costs
 
 ---
 
