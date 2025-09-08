@@ -1,6 +1,8 @@
 <h1>🥛 Day 10: Milk Yield Comparison Between Breeds</h1>
 
 ---
+This will help you clearly see the milk productivity differences across indigenous, exotic, and crossbred cows.
+---
 
 ## 1. Introduction
 
