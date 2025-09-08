@@ -47,5 +47,4 @@ Dairy farming in India is a **booming sector**, with Andhra Pradesh holding a **
 
 ---
 
-Would you like me to also create a **daily structured plan (Day 1 to Day 50)** for dairy farming learning — so you’ll know in advance what you’ll cover each day (like we did with Kubernetes)?
 
