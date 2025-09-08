@@ -1,5 +1,6 @@
-<H1> Excellent 👍 Let’s prepare **Day 32 Notes: Cow Stomach Parts – Rumen, Reticulum, Omasum, Abomasum**.</H1>
+<H1> Day 32 : Cow Stomach Parts – Rumen, Reticulum, Omasum, Abomasum.</H1>
 
+---
 This is the **core of cow digestion** and explains why proper feeding is so important.
 
 ---
