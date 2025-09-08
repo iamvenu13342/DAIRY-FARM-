@@ -1,6 +1,8 @@
 <h1>🐄 Day 9: Breed Suitability for Andhra Pradesh Climate</h1>
 
 ---
+This will help you decide which cow breeds (indigenous, exotic, or crossbreed) are best suited for dairy farming in Andhra Pradesh.
+---
 
 ## 1. Andhra Pradesh Climate Overview
 
