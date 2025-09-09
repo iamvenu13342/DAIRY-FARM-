@@ -1,12 +1,9 @@
-<h1> Day 34 Notes: Green Fodder – Types & Nutrients.</h1>
+<h1> 🐄 Day 34 Notes: Green Fodder – Types & Nutrients.</h1>
 
 Green fodder is the **backbone of dairy nutrition**, providing energy, protein, fiber, and minerals.
 
 ---
 
-# 🐄 Day 34: Green Fodder – Types & Nutrients
-
----
 
 ## 1. Importance of Green Fodder
 
