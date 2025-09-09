@@ -1,12 +1,10 @@
- <h1>Day 35 Notes: Dry Fodder – Wheat Straw, Paddy Straw.</h1>
+ <h1>🐄 Day 35 Notes: Dry Fodder – Wheat Straw, Paddy Straw.</h1>
  
 Dry fodder is the **most widely used feed** for dairy cows in India, especially in Andhra Pradesh.
 
 ---
 
-# 🐄 Day 35: Dry Fodder – Wheat Straw, Paddy Straw
 
----
 
 ## 1. Importance of Dry Fodder
 
