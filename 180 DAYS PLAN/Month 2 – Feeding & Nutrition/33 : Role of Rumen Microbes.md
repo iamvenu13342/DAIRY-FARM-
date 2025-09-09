@@ -1,12 +1,9 @@
-<H1> Day 33 : Role of Rumen Microbes.</H1>
+<H1>🐄 Day 33 : Role of Rumen Microbes.</H1>
 
 This is a **key concept** in dairy science – cows can digest fibrous fodder only because of **rumen microbes**.
 
 ---
 
-# 🐄 Day 33: Role of Rumen Microbes
-
----
 
 ## 1. Introduction
 
