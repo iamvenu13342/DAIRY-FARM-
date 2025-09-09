@@ -1,12 +1,10 @@
-<H1>Day 36 Notes: Concentrates – Oil Cakes, Maize, Grains.</H1>
+<H1>🐄 Day 36 Notes: Concentrates – Oil Cakes, Maize, Grains.</H1>
 
 Concentrates are **high-energy and high-protein feeds** that boost milk yield when combined with fodder.
 
 ---
 
-# 🐄 Day 36: Concentrates – Oil Cakes, Maize, Grains
 
----
 
 ## 1. Importance of Concentrates
 
