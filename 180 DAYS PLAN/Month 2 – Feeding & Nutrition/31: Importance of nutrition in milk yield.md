@@ -1,13 +1,11 @@
-<H1>Day 31 Notes: Importance of Nutrition in Milk Yield</H1>
+<H1>🐄 Day 31 Notes: Importance of Nutrition in Milk Yield</H1>
 
 ---
 Nutrition is the **biggest factor** that affects milk production, fertility, and cow health.
 
 ---
 
-# 🐄 Day 31: Importance of Nutrition in Milk Yield
 
----
 
 ## 1. Why Nutrition Matters
 
