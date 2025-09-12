@@ -1,4 +1,4 @@
-<h1>🐄 Day 41 Notes: Feeding Heifers.</h1>
+<h1>🐄 Day 41 : Feeding Heifers.</h1>
 
 Heifers = **young female calves (3 months – first calving)**. Their nutrition is vital because **today’s heifers are tomorrow’s dairy cows**.
 
