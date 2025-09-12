@@ -1,4 +1,4 @@
-🐄Day 37 Notes: Mineral Mixture & Salt Licks**.
+<h1>🐄 Day 37 : Mineral Mixture & Salt Licks.</h1>
 
 Though needed in **small amounts**, minerals & salt are **vital for milk yield, fertility, and cow health**.
 
