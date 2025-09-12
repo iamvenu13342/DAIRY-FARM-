@@ -1,10 +1,7 @@
-<h1>🐄 Day 39 Notes: Balanced Ration Formula.</h1>
+<h1>🐄 Day 39 : Balanced Ration Formula.</h1>
 
 Balanced ration = **right mix of green fodder, dry fodder, concentrates, minerals & water** to meet a cow’s daily needs.
 
----
-
-#  Day 39: Balanced Ration Formula
 
 ---
 
