@@ -4,9 +4,6 @@ Calf feeding in the **first 3 months** decides its growth, immunity, and future 
 
 ---
 
-#  Day 40: Feeding Newborn Calves
-
----
 
 ## 1. Importance
 
