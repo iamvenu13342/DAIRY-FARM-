@@ -121,7 +121,7 @@
 
 **Goal:** Breeding cycles, calving, milking practices.
 
-* **Day 91:** Heat detection signs.
+* **Day 91:** Heat detection signs. prepare a breeding & calving cycle chart
 * **Day 92:** Breeding methods – AI vs natural.
 * **Day 93:** AI procedure basics.
 * **Day 94:** Choosing semen – exotic vs indigenous.
