@@ -1,10 +1,8 @@
-<h1>🐄 Day 38 Notes: Water Requirements of Cows**.</h1>
+<h1>🐄 Day 38 : Water Requirements of Cows**.</h1>
 
 Water is the **most essential nutrient** for dairy cows – more important than feed, because **milk itself is 85–87% water**.
 
----
 
-#  Day 38: Water Requirements of Cows
 
 ---
 
