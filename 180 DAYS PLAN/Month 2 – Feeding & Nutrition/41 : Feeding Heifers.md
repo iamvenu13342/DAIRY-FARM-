@@ -2,9 +2,6 @@
 
 Heifers = **young female calves (3 months – first calving)**. Their nutrition is vital because **today’s heifers are tomorrow’s dairy cows**.
 
----
-
-#  Day 41: Feeding Heifers
 
 ---
 
