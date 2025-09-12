@@ -1,4 +1,4 @@
-<h1>🐄 Day 40 Notes: Feeding Newborn Calves.</h1>
+<h1>🐄 Day 40 : Feeding Newborn Calves.</h1>
 
 Calf feeding in the **first 3 months** decides its growth, immunity, and future milk yield.
 
