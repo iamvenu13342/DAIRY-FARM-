@@ -1,4 +1,4 @@
-<H1>🐄 Day 56: Feeding Schedule Planning (Day & Night)****.</H1>
+<H1>🐄 Day 56: Feeding Schedule Planning (Day & Night) -STAR </H1>
 
 A proper feeding schedule helps cows **digest better, stay healthy, and give more milk**.
 
