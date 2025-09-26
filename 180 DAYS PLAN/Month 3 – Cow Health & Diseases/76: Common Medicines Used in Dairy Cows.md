@@ -1,10 +1,11 @@
 <H1> 🐄 Day 76: Common Medicines Used in Dairy Cows.</H1>
 
 Every dairy farmer should know the **basic medicines** commonly prescribed by veterinarians for cows.
+
+---
+
 ⚠️ Note: Always use medicines under **vet supervision** – wrong use can cause drug resistance or residues in milk.
-
  
-
 ---
 
 ## 1. Antibiotics (for bacterial infections)
